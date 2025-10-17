@@ -15,7 +15,7 @@ Soy un estudiante de 17 años apasionado por la tecnología y la informática. A
 
 **Grado Medio en Sistemas Microinformáticos y Redes**  
 Centro de formación profesional (puedes añadir el nombre del centro)  
-📆 Inicio: [año] – Actualidad
+📆 Inicio: 2024 – 
 
 ---
 
@@ -49,8 +49,9 @@ Centro de formación profesional (puedes añadir el nombre del centro)
 ## 🌐 Idiomas
 
 - Español: Nativo  
-- Inglés: Nivel básico/intermedio  
-
+- Inglés: Nivel intermedio  
+- Catalan : Natiu
+- Frances: Nivel básico
 ---
 
 ## 🚀 Intereses
